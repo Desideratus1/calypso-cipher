@@ -1,4 +1,3 @@
-from fnmatch import translate
 from importers.json_importer import JsonImporter
 import os
 
